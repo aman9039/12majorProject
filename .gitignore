@@ -24,4 +24,4 @@ dist-ssr
 *.sw?
 
 # Add enviornment veriable
-*.evn
+*.env
