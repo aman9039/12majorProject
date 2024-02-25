@@ -25,5 +25,7 @@ dist-ssr
 
 
 
-
+# will be ignored
+.env
+.env
 .env
